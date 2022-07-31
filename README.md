@@ -45,7 +45,8 @@ There were a number of various models created which included : Logistic regressi
 * **F1 score = 0.81651376146789**
 * **Precision = 0.956989247311828**
 * **AUC = 0.853179125528914**
-Having chosen our model, I also investigated feature importance in order to provide optimal recommendations.
+
+Having chosen our model, I also investigated feature importance in order to provide optimal recommendations. The following is a visualization of the feature importance in ascending order:
 ![image](https://user-images.githubusercontent.com/104361809/182009495-8f28239e-a937-4e94-b338-5d00be06ee79.png)
 ## Summary
 The top 5 factors that influenced churning are:
@@ -58,5 +59,6 @@ The top 5 factors that influenced churning are:
 The recommendations given included:
 * Analysing customer service call to know what issues customers raise and make appropriate adjustments. They should also make follow ups to see if those who made calls were helped.
 * Reducing day, eve and international charges in order to retain customers. Additionally they could give bonuses to thoses who use theire services more: for example free minutes or calls.
-* Come up with a favourable international plan or alternatively get rid of the product since majority of the customers do not subscribe to it
+* Come up with a favourable international plan or alternatively get rid of the product since majority of the customers do not subscribe to it.
+
 Having these recommendations, after implementing them, Syriatel should later evaluate them and check whether the changes they made are effective and check whether they are cost effective.
