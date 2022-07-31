@@ -35,7 +35,7 @@ The dataset contains the following columns:
 Jupyter notebook was used in this project. Various steps were carried out in the analysis of the data. They include:
 * Data Cleaning
 * Exploratory Data Analysis.
-*Data Preprocessing
+* Data Preprocessing
 * Modelling- Involved creating a  number of models and hyperparameter tuning
 * Drawing conlusions and providing recommendations
 ## Final Model
