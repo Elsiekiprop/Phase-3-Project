@@ -36,6 +36,7 @@ The dataset contains the following columns:
 * total intl charge
 * customer service calls
 * churn
+
 The target variable in this case is ```churn``` where false(0) represents a customer not quiting SyriaTel's services while true(1) represents a customer quiting the services.
 
 ## Method
