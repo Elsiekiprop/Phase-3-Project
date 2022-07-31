@@ -14,6 +14,7 @@ Therefore, this project will aim to investigate customer churn which simply mean
 
 ## Data Understanding 
 The data used was sourced from Kaggle. Its called ```bigml_59c28831336c6604c800002a.csv```. 
+
 The dataset contains the following columns:
 * state
 * account length
