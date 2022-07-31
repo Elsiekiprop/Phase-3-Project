@@ -1,6 +1,8 @@
 # Phase-3-Project
 Author : Elsie Lovell Kiprop
 
+![image](https://user-images.githubusercontent.com/104361809/182010063-4dd85098-6e86-4e44-9d8f-c6fae586dfa4.png)
+
 ## Overview
 SyriaTel is a mobile network provider based in Syria with a customer base of over 8 million.
 This project analyses data to check for factors that lead to churning of customers. The project seeks to investigate customer retention in order to minimise their losses.
